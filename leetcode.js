@@ -18,4 +18,3 @@ var minOperations = function (nums, k) {
   }
   return num;
 };
-console.log(minOperations([17, 14], 5));
