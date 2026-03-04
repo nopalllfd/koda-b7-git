@@ -6,4 +6,4 @@ ini update readme dari remote, testing untuk pull ke lokal
 
 ini update dari remote lagi
 
-ini push dari lokal
+ini push dari lokall
